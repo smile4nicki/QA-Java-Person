@@ -1,7 +1,7 @@
 # QA-Java-Person
 
-#PEOPLE
-#Create a Person class that models the following:
+# PEOPLE
+Create a Person class that models the following:
 - Name
 - Age
 - Job Title
